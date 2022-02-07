@@ -1,0 +1,14 @@
+.traffic-no {
+  float: left;
+}
+
+.traffic-name {
+  float: left;
+  font-size: small;
+  color: rgb(168, 168, 168);
+  margin-left: 10px;
+}
+
+.traffic-percentage {
+  float: right;
+}

@@ -1,0 +1,15 @@
+.Involovement {
+  height: 34vh;
+  margin-top: 1vh;
+}
+.involovement-no {
+  float: left;
+  font-size: x-large;
+}
+
+.involovement-date {
+  float: left;
+  color: rgb(170, 170, 170);
+  font-size: smaller;
+  margin-top: -20px;
+}

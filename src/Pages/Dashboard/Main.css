@@ -1,0 +1,18 @@
+.App {
+  background-color: #eaf2ff;
+  height: 100vh;
+  margin-top: 0px;
+  padding-top: 50px;
+}
+
+.Main {
+  width: 90%;
+  height: 600px;
+  border: none;
+}
+
+.user-name {
+  float: left;
+  border-radius: 10px;
+  padding: 2px 5px;
+}

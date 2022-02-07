@@ -1,0 +1,12 @@
+.btn-rounded{
+	border-radius:20px !important;
+	width:80px;
+}
+
+.nav-btn{
+	width: 40px;
+	height: 40px;
+	background: #fff !important;
+	padding: 0px !important;
+	border-radius: 50px !important;
+}

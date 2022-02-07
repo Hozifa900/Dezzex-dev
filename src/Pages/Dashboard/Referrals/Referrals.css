@@ -1,0 +1,39 @@
+.Referrals {
+  height: 35vh;
+}
+
+.SubReferrals {
+  width: 100%;
+}
+
+.referral-no {
+  float: right;
+  font-size: smaller;
+  color: rgb(196, 196, 196);
+  margin-top: 10px;
+}
+
+.referral-name {
+  float: left;
+  font-size: smaller;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+
+.referral-img {
+  float: left;
+  height: 40px;
+  width: 40px;
+  border-radius: 100px;
+  border: rgb(124, 124, 124) 1px solid;
+}
+
+.live {
+  width: 10px;
+  height: 10px;
+  background-color: green;
+  border-radius: 50px;
+  float: left;
+  margin: 0px 0px;
+  position: absolute;
+}

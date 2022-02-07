@@ -1,0 +1,36 @@
+.LeftBar {
+  height: 600px;
+  overflow-y: auto;
+  margin-top: 10px;
+}
+.user-name {
+  display: inline;
+  font-size: 0.7em;
+  margin: 10px 10px;
+}
+.user-img {
+  float: left;
+  width: 40px;
+  height: 40px;
+  border-radius: 100px;
+  border: rgb(204, 204, 204) 1px solid;
+}
+
+.SubLeftBar {
+  margin: 20px 0px;
+  text-align: left;
+}
+
+.title {
+  text-align: left;
+}
+
+.name {
+  margin-left: 10px;
+  font-size: smaller;
+}
+
+.logout {
+  position: relative;
+  top: 10vh;
+}
